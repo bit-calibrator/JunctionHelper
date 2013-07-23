@@ -1,0 +1,4 @@
+.project
+.pydevproject
+JunctionHelper.egg-info/
+junctionhelper/__pycache__/
