@@ -10,7 +10,7 @@ setup(
     url='http://bitcalibrator.com',
     license='LICENSE.txt',
     description='Common Junction use-cases',
-    long_description=open('README.txt').read(),
+    long_description=open('README.md').read(),
     install_requires=[
         "ntfsutils == 0.1.2",
     ],
